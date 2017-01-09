@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Probal_app
 Aplikasi profil kota bandar lampung
 =======
@@ -10,3 +11,7 @@ latihan daftar login
 # LBS_MODE
 Modul gps maps
 >>>>>>> 7aa597a96aae0f78103e42095af386b4bb78a463
+=======
+# Registrasi
+belajar registrasi
+>>>>>>> 5e28a64037390c42a5b889d8bb7e9098dcabe2ab
